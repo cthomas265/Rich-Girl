@@ -8,3 +8,6 @@
 * Invoke application using commands. then server is started and models are synced to database
 * GET produces each table in JSON format.
 * POST, PUT, and DELETE routes work properly in database.
+
+
+https://drive.google.com/file/d/1hoHrsrwOsfBehZ9CQ_5oMTwNkjKePeDS/view
